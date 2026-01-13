@@ -10,7 +10,7 @@ import logging
 from .auth import AuthClient
 from .types import *
 
-BASE_URL = "https://c7zkf7l933.execute-api.ap-southeast-1.amazonaws.com/prod/"
+BASE_URL = "https://jm41kogy2b.execute-api.ap-southeast-1.amazonaws.com/prod/"
 
 _LOGGER = logging.getLogger(__name__)
 
