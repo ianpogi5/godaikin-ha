@@ -18,8 +18,8 @@ NOTE: This is an unofficial integration and is not affiliated with Daikin. It ta
 ## Installation
 
 ### HACS (Recommended)
-1. [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ianpogi5&repository=godaikin-ha)
-2. Or, add `https://github.com/ianpogi5/godaikin-ha` as a custom repository in HACS, then search for "GO DAIKIN (Philippines)" and install
+1. [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ianpogi5&repository=godaikin-ph-ha)
+2. Or, add `https://github.com/ianpogi5/godaikin-ph-ha` as a custom repository in HACS, then search for "GO DAIKIN (Philippines)" and install
 
 ### Manual Installation
 1. Copy the `custom_components/godaikin_ph` directory to your Home Assistant's `custom_components` directory
@@ -76,7 +76,7 @@ This integration uses the GO DAIKIN cloud API to control Daikin air conditioners
 
 ## Support
 
-For issues and feature requests, please use the [GitHub issue tracker](https://github.com/ianpogi5/godaikin-ha/issues).
+For issues and feature requests, please use the [GitHub issue tracker](https://github.com/ianpogi5/godaikin-ph-ha/issues).
 
 This is a Philippine-region fork of the original [doubleukay/godaikin-ha](https://github.com/doubleukay/godaikin-ha).
 
